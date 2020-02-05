@@ -1,7 +1,8 @@
-space=1
-for i in range(1,6):
-	if(i!=1):
-		print(' '*(5-i),'*',' '*space,'*',sep='')
-        space=space+2
- else:
-		print(' '*(5-i),'*',sep='')
+n = int(input())
+for i in range(n):
+	for j in range:
+		if i == 0 or j == 0 or i == n-1 or j == n-1
+			print("#", end = "")
+        	else:
+			print(" ", end = "")
+	print()
